@@ -1,4 +1,5 @@
-#API DOCUMENTATION FOR THE TweetAI APPLICATION THAT GENERATES AUTOBOTS
+# API DOCUMENTATION FOR THE TweetAI APPLICATION THAT GENERATES AUTOBOTS
+
 This is a comprehensive documentation for the API endpoints of the TweetAI application—that programmatically creates AI users called Autobots.  All the details about the routes, request formats, responses, and rate limits are fullt documented.
 
 ---
